@@ -6,7 +6,7 @@ app #1: Aplicatico com Função de dar suporte especifico para os parceiros da r
 
 # Cadastro de Parceiros (Comerciantes)
 
-. Cadastro do CNPJ
+Cadastro de parceiros
 . Conta de Recebimento
 . Endereço
 . Responsável
