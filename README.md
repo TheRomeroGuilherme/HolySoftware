@@ -78,5 +78,6 @@ competirem no mercado online, promovendo o crescimento de seus negócios.
 - Quais Plataformas:
     Será lançado como aplicativo para ios e android, e no futuro para melhor administração contará com interface web.
 Pontuações sobre a empresa
-Frase que Representa os Aspectos da Empresa e do Software
+    Frase que Representa os Aspectos da Empresa e do Software:
+  
 *"Empoderando microempreendedores, conectando comunidades."*
