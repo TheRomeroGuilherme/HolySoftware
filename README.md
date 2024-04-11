@@ -180,7 +180,7 @@ Pontuações sobre a empresa
     </tbody>
 </table>
   
- - Requisitos Não Funcionais:
+ - Requisitos Funcionais:
 
 <table>
     <thead>
@@ -214,6 +214,64 @@ Pontuações sobre a empresa
                 </ol>
             </td>
             <td>Alta</td>
+        </tr>
+    </tbody>
+</table>
+
+- Requisitos Não Funcionais
+
+
+<table>
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Requisito Não Funcional</th>
+            <th>Detalhes</th>
+            <th>Prioridade</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>RNF1</td>
+            <td>Segurança</td>
+            <td>O aplicativo deve proteger os dados dos usuários contra acesso não autorizado, uso indevido e divulgação.</td>
+            <td>Alta</td>
+        </tr>
+        <tr>
+            <td>RNF2</td>
+            <td>Desempenho</td>
+            <td>O aplicativo deve ser rápido e responsivo, mesmo em dispositivos com recursos limitados.</td>
+            <td>Alta</td>
+        </tr>
+        <tr>
+            <td>RNF3</td>
+            <td>Escalabilidade</td>
+            <td>O aplicativo deve ser capaz de lidar com um grande número de usuários e transações.</td>
+            <td>Alta</td>
+        </tr>
+        <tr>
+            <td>RNF4</td>
+            <td>Disponibilidade</td>
+            <td>O aplicativo deve estar disponível 24 horas por dia, 7 dias por semana.</td>
+            <td>Alta</td>
+        </tr>
+        <tr>
+            <td>RNF5</td>
+            <td>Usabilidade</td>
+            <td>O aplicativo deve ser fácil de usar para todos os tipos de usuários, inclusive aqueles com pouca experiência com tecnologia.</td>
+            <td>Alta</td>
+        </tr>
+        <tr>
+            <td>RNF6</td>
+            <td>Acessibilidade</td>
+            <td>O aplicativo deve ser acessível a pessoas com deficiência.</td>
+            <td>Média</td>
+        </tr>
+        <tr>
+            <td>RNF7</td>
+            <td>Manutenabilidade</td>
+            <td>O aplicativo deve ser fácil de manter e atualizar.</td>
+            <td>Média</td>
         </tr>
     </tbody>
 </table>
