@@ -276,4 +276,51 @@ Pontuações sobre a empresa
     </tbody>
 </table>
 
+- Requisitos Funcionais Detalhados:
+
+
+<table>
+    <thead>
+        <tr>
+            <th>Função</th>
+            <th>Descrição</th>
+            <th>Entradas</th>
+            <th>Origem</th>
+            <th>Saídas</th>
+            <th>Destino</th>
+            <th>Ação</th>
+            <th>Requer Pré-Condição</th>
+            <th>Pós-Condição</th>
+            <th>Efeitos Colaterais</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Cadastrar Produto</td>
+            <td>Permite que o comerciante local cadastre seus produtos no aplicativo.</td>
+            <td>Nome do produto, Descrição do produto, Categoria do produto, Preço do produto, Quantidade em estoque, Fotos do produto</td>
+            <td>Interface do aplicativo para o comerciante local</td>
+            <td>Produto cadastrado no sistema, Mensagem de confirmação de cadastro</td>
+            <td>Banco de dados do aplicativo</td>
+            <td>Inserir os dados do produto no banco de dados</td>
+            <td>O comerciante local deve estar logado no aplicativo.</td>
+            <td>O produto estará disponível para venda no aplicativo.</td>
+            <td>O estoque do produto será atualizado.</td>
+        </tr>
+        <tr>
+            <td>Buscar Produtos</td>
+            <td>Permite que o cliente procure produtos no aplicativo.</td>
+            <td>Termo de busca, Categoria do produto, Localização</td>
+            <td>Interface do aplicativo para o cliente</td>
+            <td>Lista de produtos que correspondem ao termo de busca, Mapa com a localização dos produtos</td>
+            <td>Interface do aplicativo para o cliente</td>
+            <td>Pesquisar no banco de dados os produtos que correspondem ao termo de busca, Obter a localização dos produtos</td>
+            <td>O cliente deve estar logado no aplicativo.</td>
+            <td>O cliente terá acesso a uma lista de produtos que correspondem ao termo de busca. O cliente poderá visualizar a localização dos produtos em um mapa.</td>
+            <td>Nenhum.</td>
+        </tr>
+    </tbody>
+</table>
+
+
 *"Empoderando microempreendedores, conectando comunidades."*
