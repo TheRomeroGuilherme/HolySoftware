@@ -82,7 +82,7 @@ Pontuações sobre a empresa
 ● Fluxograma AS IS/TO BE:
 ![FluxogramaFashionFinds](https://github.com/LeviMazzero/HolySoftware/assets/91742210/b3e36e55-9dbe-414a-8852-81917e497f88)
 
-- Requisitos funcionais
+- Historias de Usuario
 <table>
     <thead>
         <tr>
@@ -180,4 +180,42 @@ Pontuações sobre a empresa
     </tbody>
 </table>
   
+ - Requisitos Não Funcionais:
+
+<table>
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Requisito Funcional</th>
+            <th>Detalhes</th>
+            <th>Prioridade</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>RF1</td>
+            <td>O aplicativo deve permitir que os clientes procurem produtos por nome, categoria, localização, etc.</td>
+            <td>
+                <ol>
+                    <li>A busca deve ser rápida e precisa.</li>
+                    <li>Os resultados da busca devem ser relevantes para a consulta do cliente.</li>
+                </ol>
+            </td>
+            <td>Alta</td>
+        </tr>
+        <tr>
+            <td>RF2</td>
+            <td>O aplicativo deve permitir que os clientes comprem produtos online e paguem com segurança.</td>
+            <td>
+                <ol>
+                    <li>O processo de checkout deve ser simples e intuitivo.</li>
+                    <li>O cliente deve poder escolher entre diferentes formas de pagamento.</li>
+                    <li>O cliente deve receber um e-mail de confirmação de compra após finalizar o pedido.</li>
+                </ol>
+            </td>
+            <td>Alta</td>
+        </tr>
+    </tbody>
+</table>
+
 *"Empoderando microempreendedores, conectando comunidades."*
