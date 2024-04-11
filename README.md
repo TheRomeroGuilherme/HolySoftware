@@ -84,11 +84,100 @@ Pontuações sobre a empresa
 
 - Requisitos funcionais
 <table>
-    <tr>
-        <td>
-            dsdsd
-        </td>
-    </tr>
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>História de Usuário</th>
+            <th>Critério de Aceitação</th>
+            <th>Prioridade</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>US1</td>
+            <td>Como cliente, quero navegar facilmente pelo aplicativo para encontrar os produtos que procuro.</td>
+            <td>
+                <ol>
+                    <li>O aplicativo deve ter uma interface intuitiva e amigável.</li>
+                    <li>Os produtos devem ser categorizados e filtrados de forma eficiente.</li>
+                    <li>A busca por produtos deve ser rápida e precisa no máximo 5 segundos.</li>
+                </ol>
+            </td>
+            <td>Alta</td>
+        </tr>
+        <tr>
+            <td>US2</td>
+            <td>Como cliente, quero poder visualizar fotos e informações detalhadas dos produtos antes de comprá-los.</td>
+            <td>
+                <ol>
+                    <li>As fotos dos produtos devem ser de alta qualidade e mostrar o produto em diferentes ângulos.</li>
+                    <li>As informações dos produtos devem ser completas e precisas, incluindo descrição, tamanho, cor, material, etc.</li>
+                    <li>O cliente deve poder ampliar as fotos e ler as informações com facilidade.</li>
+                </ol>
+            </td>
+            <td>Alta</td>
+        </tr>
+        <tr>
+            <td>US3</td>
+            <td>Como cliente, quero poder adicionar produtos ao carrinho de compras e finalizar a compra de forma rápida e segura.</td>
+            <td>
+                <ol>
+                    <li>O processo de checkout deve ser simples e intuitivo.</li>
+                    <li>O cliente deve poder escolher entre diferentes formas de pagamento.</li>
+                    <li>O cliente deve receber um e-mail de confirmação de compra após finalizar o pedido.</li>
+                </ol>
+            </td>
+            <td>Alta</td>
+        </tr>
+        <tr>
+            <td>US4</td>
+            <td>Como comerciante local, quero poder cadastrar meus produtos no aplicativo de forma rápida e fácil.</td>
+            <td>
+                <ol>
+                    <li>O processo de cadastro de produtos deve ser intuitivo e eficiente.</li>
+                    <li>O comerciante deve poder fornecer todas as informações relevantes sobre seus produtos.</li>
+                    <li>O comerciante deve poder acompanhar o status de seus produtos no aplicativo.</li>
+                </ol>
+            </td>
+            <td>Média</td>
+        </tr>
+        <tr>
+            <td>US5</td>
+            <td>Como comerciante local, quero poder gerenciar meus pedidos e entregas de forma eficiente.</td>
+            <td>
+                <ol>
+                    <li>O comerciante deve poder visualizar todos os seus pedidos em um único lugar.</li>
+                    <li>O comerciante deve poder acompanhar o status de cada pedido.</li>
+                    <li>O comerciante deve poder imprimir etiquetas de envio e rastrear as entregas.</li>
+                </ol>
+            </td>
+            <td>Média</td>
+        </tr>
+        <tr>
+            <td>US6</td>
+            <td>Como cliente, quero poder me comunicar com o comerciante local para tirar dúvidas e fazer solicitações.</td>
+            <td>
+                <ol>
+                    <li>O aplicativo deve fornecer um canal de comunicação direto entre o cliente e o comerciante.</li>
+                    <li>O cliente deve poder enviar mensagens e fotos para o comerciante.</li>
+                    <li>O comerciante deve responder às mensagens do cliente em tempo hábil.</li>
+                </ol>
+            </td>
+            <td>Baixa</td>
+        </tr>
+        <tr>
+            <td>US7</td>
+            <td>Como cliente, quero poder avaliar os produtos que comprei e compartilhar minha opinião com outros clientes.</td>
+            <td>
+                <ol>
+                    <li>O aplicativo deve permitir que os clientes avaliem os produtos com estrelas.</li>
+                    <li>O aplicativo deve permitir que os clientes escrevam comentários sobre os produtos.</li>
+                    <li>Os comentários dos clientes devem ser visíveis para outros clientes.</li>
+                </ol>
+            </td>
+            <td>Baixa</td>
+        </tr>
+    </tbody>
 </table>
   
 *"Empoderando microempreendedores, conectando comunidades."*
