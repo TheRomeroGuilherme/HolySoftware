@@ -51,7 +51,7 @@ em seus negócios.
 
 - Definição do Projeto de Software:
 ● Resumo:
-- FashionFinds é uma plataforma de e-commerce personalizada para
+   FashionFinds é uma plataforma de e-commerce personalizada para
 microempreendedores locais, oferecendo ferramentas de marketing digital e
 suporte ao cliente.
 ● Como o software funcionará?
@@ -79,8 +79,17 @@ competirem no mercado online, promovendo o crescimento de seus negócios.
     Será lançado como aplicativo para ios e android, e no futuro para melhor administração contará com interface web.
 Pontuações sobre a empresa
 
-● Fluxograma ASIS:
+● Fluxograma AS IS/TO BE:
 ![FluxogramaFashionFinds](https://github.com/LeviMazzero/HolySoftware/assets/91742210/b3e36e55-9dbe-414a-8852-81917e497f88)
 
+- Requisitos funcionais
+ID	História de Usuário	Criterio de Aceitação	Prioridade
+US1	Como cliente, quero navegar facilmente pelo aplicativo para encontrar os produtos que procuro.	1. O aplicativo deve ter uma interface intuitiva e amigável. 2. Os produtos devem ser categorizados e filtrados de forma eficiente. 3. A busca por produtos deve ser rápida e precisa no maximo 5 segundos.	Alta
+US2	Como cliente, quero poder visualizar fotos e informações detalhadas dos produtos antes de comprá-los.	1. As fotos dos produtos devem ser de alta qualidade e mostrar o produto em diferentes ângulos. 2. As informações dos produtos devem ser completas e precisas, incluindo descrição, tamanho, cor, material, etc. 3. O cliente deve poder ampliar as fotos e ler as informações com facilidade.	Alta
+US3	Como cliente, quero poder adicionar produtos ao carrinho de compras e finalizar a compra de forma rápida e segura.	1. O processo de checkout deve ser simples e intuitivo. 2. O cliente deve poder escolher entre diferentes formas de pagamento. 3. O cliente deve receber um e-mail de confirmação de compra após finalizar o pedido.	Alta
+US4	Como comerciante local, quero poder cadastrar meus produtos no aplicativo de forma rápida e fácil.	1. O processo de cadastro de produtos deve ser intuitivo e eficiente. 2. O comerciante deve poder fornecer todas as informações relevantes sobre seus produtos. 3. O comerciante deve poder acompanhar o status de seus produtos no aplicativo.	Média
+US5	Como comerciante local, quero poder gerenciar meus pedidos e entregas de forma eficiente.	1. O comerciante deve poder visualizar todos os seus pedidos em um único lugar. 2. O comerciante deve poder acompanhar o status de cada pedido. 3. O comerciante deve poder imprimir etiquetas de envio e rastrear as entregas.	Média
+US6	Como cliente, quero poder me comunicar com o comerciante local para tirar dúvidas e fazer solicitações.	1. O aplicativo deve fornecer um canal de comunicação direto entre o cliente e o comerciante. 2. O cliente deve poder enviar mensagens e fotos para o comerciante. 3. O comerciante deve responder às mensagens do cliente em tempo hábil.	Baixa
+US7	Como cliente, quero poder avaliar os produtos que comprei e compartilhar minha opinião com outros clientes.	1. O aplicativo deve permitir que os clientes avaliem os produtos com estrelas. 2. O aplicativo deve permitir que os clientes escrevam comentários sobre os produtos. 3. Os comentários dos clientes devem ser visíveis para outros clientes.	Baixa
   
 *"Empoderando microempreendedores, conectando comunidades."*
