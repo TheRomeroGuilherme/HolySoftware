@@ -78,6 +78,9 @@ competirem no mercado online, promovendo o crescimento de seus negócios.
 - Quais Plataformas:
     Será lançado como aplicativo para ios e android, e no futuro para melhor administração contará com interface web.
 Pontuações sobre a empresa
-    Frase que Representa os Aspectos da Empresa e do Software:
+
+● Fluxograma ASIS:
+![FluxogramaFashionFinds](https://github.com/LeviMazzero/HolySoftware/assets/91742210/b3e36e55-9dbe-414a-8852-81917e497f88)
+
   
 *"Empoderando microempreendedores, conectando comunidades."*
