@@ -1,8 +1,8 @@
 <h1> Nome da Empresa/Software: FashionFinds </h1>
-- Missão:
+<h3>- Missão:</h3>
     Capacitar microempreendedores locais através de soluções digitais acessíveis,
 promovendo crescimento econômico e inclusão social.
-- Visão:
+<h3>- Visão:</h3>
     Ser a principal plataforma de apoio para microempreendedores locais,
 impulsionando o desenvolvimento sustentável das comunidades.
 - Valores:
